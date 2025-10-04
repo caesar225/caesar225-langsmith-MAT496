@@ -11,7 +11,10 @@ In module 2 video 1, I learnt about datasets. They are useful as a form of evalu
 
 In module 2 video 2, I learnt about evaluators. They evaluate empirically whether the changes we made actually improved the application or not. They operate on examples from our dataset and run our application over those examples. We can attach multiple evaluators so that we can calculate many different metrics such as accuracy and hallucination. What they do is, they compare the dataset example(the golden example) against the example run from our app. I have compared questions from my dataset and the ones not from my dataset as well.
 
-In module 2 video 3, I learnt about experiments. An experiment can be defined as running our application over a dataset, and then evaluating performance using evaluators. Experiments in Langsmith let us run, monitor, and compare different model runs or configurations. I have used my own dataset.
+In module 2 video 3, I learnt about experiments. An experiment can be defined as running our application over a dataset, and then evaluating performance using evaluators. Experiments in Langsmith let us run, monitor, and compare different model runs or configurations. I have used my own dataset. 
+
+In module 2 video 4, I learnt how to analyse the results of my experiment. <img width="1282" height="459" alt="Screenshot 2025-10-04 234041" src="https://github.com/user-attachments/assets/3a67e37e-da1f-4de2-ba74-6e43185b9702" />
+
 
 
 
