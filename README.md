@@ -3,9 +3,11 @@ In module 1 video 1, I learnt about the concept of tracing. It is the process of
 
 In module 1 video 2, I learnt about runs, their types and tool calling. Runs are a single execution unit traced by Langsmith. Runs are helpful in debugging as we can trace the intermediate steps and see where we went wrong. Tools are used when the LLM can't answer something by itself. LangSmith will trace each tool call as a separate Tool run. Once again, I added a few of my own questions.
 
-In module 1 video 3, I learnt about the alternative ways to trace, as decorators trace only one function call at a time, and don't capture the entire flow. Context manager gives more control over what exactly is traced and when. It is useful if you want tmultiple related calls or longer workflows as a single run. API Calls explicitly create and log runs via SDK or API calls. They allow linking multiple runs, or integrating with external systems.
+In module 1 video 3, I learnt about the alternative ways to trace, as decorators trace only one function call at a time, and don't capture the entire flow. Context manager gives more control over what exactly is traced and when. It is useful if you want multiple related calls or longer workflows as a single run. API Calls explicitly create and log runs via SDK or API calls. They allow linking multiple runs, or integrating with external systems. I tweaked the code by adding some questions which would not be given in the context.
 
-In module 1 video 4, I learnt about conversational threads. It is how we can continue a conversation with an LLM about a topic with a sequence of related messages. It's like a mini conversation within the overall dialogue. Threads are useful so the LLM application doesn't mix up answers.
+In module 1 video 4, I learnt about conversational threads. It is how we can continue a conversation with an LLM about a topic with a sequence of related messages. It's like a mini conversation within the overall dialogue. Threads are useful so the LLM application doesn't mix up answers. I tested the limits of its contents.
+
+In module 2 video 1, I learnt about datasets. They are useful as a form of evaluation, so that we can make sure that our changes make our application better. Fundamentally, they are a list of examples. We can add examples manually as well. Examples contain an input and an output, similar to a RAG application. I have tweaked the examples. 
 
 
 
