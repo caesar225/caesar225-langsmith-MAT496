@@ -9,7 +9,9 @@ In module 1 video 4, I learnt about conversational threads. It is how we can con
 
 In module 2 video 1, I learnt about datasets. They are useful as a form of evaluation, so that we can make sure that our changes make our application better. Fundamentally, they are a list of examples. We can add examples manually as well. Examples contain an input and an output, similar to a RAG application. I have tweaked all the examples. 
 
-In module 2 video 2, I learnt about evaluators. They evaluate empirically whether the changes we made actually improved the application or not. They operate on examples from our dataset and run our application over those examples. We can attach multiple evaluators so that we can calculate many different metrics such as accuracy and hallucination. What they do is, they compare the dataset example(the golden example) against the example run from our app.
+In module 2 video 2, I learnt about evaluators. They evaluate empirically whether the changes we made actually improved the application or not. They operate on examples from our dataset and run our application over those examples. We can attach multiple evaluators so that we can calculate many different metrics such as accuracy and hallucination. What they do is, they compare the dataset example(the golden example) against the example run from our app. I have compared questions from my dataset and the ones not from my dataset as well.
+
+In module 2 video 3, I learnt about experiments. An experiment can be defined as running our application over a dataset, and then evaluating performance using evaluators. Experiments in Langsmith let us run, monitor, and compare different model runs or configurations. I have used my own dataset.
 
 
 
