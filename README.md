@@ -17,4 +17,5 @@ In module 2 video 4, I learnt how to analyse the results of my experiment. <img 
 
 In module 3 video 1, I learnt about the playground environment in Langsmith and how it's useful for prompt engineering. We will be dealing with prompt templates, which have template variables which are filled by the user at runtime. They give the user more flexibility as now we can enter different inputs and test them. I changed the dataset used and filled it with my own variables.
 
+In module 3 video 2, I learnt about the prompt hub. Here, we can store prompt templates and reuse them across different applications. It also allows us to save different versions of the same prompt. I created different versions of my own prompt and saw the LLM answer in the language of my choosing.
 
