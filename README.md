@@ -20,3 +20,5 @@ In module 3 video 1, I learnt about the playground environment in Langsmith and 
 In module 3 video 2, I learnt about the prompt hub. Here, we can store prompt templates and reuse them across different applications. It also allows us to save different versions of the same prompt. I created different versions of my own prompt and saw the LLM answer in the language of my choosing.
 
 In module 3 video 3, I learnt how to take what I learnt about the playground and prompt hub and how to iterate on a prompt using them. I created my own updated dataset.I also used Groq instead of ChatGPT and HuggingFace embeddings instead of OpenAI embeddings.
+
+In module 3 video 4, I learnt about prompt canvas, which uses an LLM agent to help us improve our prompts. We can find this inside the playground interface in Langsmith. We can use this to standardize prompts across our organization.
