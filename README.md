@@ -15,6 +15,6 @@ In module 2 video 3, I learnt about experiments. An experiment can be defined as
 
 In module 2 video 4, I learnt how to analyse the results of my experiment. <img width="1282" height="459" alt="Screenshot 2025-10-04 234041" src="https://github.com/user-attachments/assets/3a67e37e-da1f-4de2-ba74-6e43185b9702" />
 
-In module 3 video 1, I learnt about the playground environment in Langsmith and how it's useful for prompt engineering. We will be dealing with prompt templates, which have template variables which are filled by the user at runtime. They give the user more flexibility as now we can enter different inputs and test them.
+In module 3 video 1, I learnt about the playground environment in Langsmith and how it's useful for prompt engineering. We will be dealing with prompt templates, which have template variables which are filled by the user at runtime. They give the user more flexibility as now we can enter different inputs and test them. I changed the dataset used and filled it with my own variables.
 
 
